@@ -1,0 +1,13 @@
+Hello there,
+How are you doing today?
+I hope you're having a great time.
+#include <stdio.h>
+
+int main() {
+    int a = 5;
+    int b = 10;
+    int sum = a + b;
+    printf("The sum is: %d\n", sum);
+    return 0;
+}
+Enter a string: if
